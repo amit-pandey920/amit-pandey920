@@ -1,3 +1,4 @@
+![logo](https://github.com/amit-pandey920/amit-pandey920/blob/main/banneramit.jpeg)
 <h1 align="center">Hi 👋, I'm Amit Pandey</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
