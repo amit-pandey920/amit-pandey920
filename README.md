@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Pandey</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="right"> <img src="https://thumbs.dreamstime.com/b/animated-data-analysis-business-man-analyzing-researching-using-laptop-multiple-monitors-watch-data-charts-graphic-cartoon-323106039.jpg" /> </p>
+<p align="right"> <img src="https://thumbs.dreamstime.com/b/animated-data-analysis-business-man-analyzing-researching-using-laptop-multiple-monitors-watch-data-charts-graphic-cartoon-323106039.jpg" hight="250" width="250" /> </p>
 
 - 🌱 I’m currently learning **Python and SQL**
 
