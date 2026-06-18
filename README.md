@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://thumbs.dreamstime.com/b/animated-data-analysis-business-man-analyzing-researching-using-laptop-multiple-monitors-watch-data-charts-graphic-cartoon-323106039.jpg" hight="250" width="250" /> </p>
 
-- 🌱 I’m currently learning **Python and SQL**
+- 🌱 I have basic knowledge of **Python and SQL**
 
 - 📫 How to reach me **amitpandey14546@gmail.com**
 
